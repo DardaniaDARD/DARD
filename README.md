@@ -20,4 +20,7 @@ Der Smart Contract ist auf Solidity 0.8.20 geschrieben und verwendet die OpenZep
 
 ## Lizenz  
 MIT  
+## Contract-Adresse  
+- **Mainnet**: `0x123456789abcdef...`  
+- **Testnet**: `0x987654321abcdef...`  
 
